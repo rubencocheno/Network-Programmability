@@ -1,0 +1,13 @@
+#API keys for https://developer.mapquest.com/
+
+gKcEirXIafhd5c6SUuaH9yXsEntvx9xL
+
+lfqnKURGXIjUITnOvEFmeMDQ4Dqovf3L
+
+wvTZo2wJQmpYALFdAUf2Kixbd2JjyRXw
+
+#https://api.nasa.gov/
+sww4qpqVec1hMRjccblrblgxyPMzHw8GPVA1qD8K
+
+#https://home.openweathermap.org/api_keys
+9b4d948471f973ee68c4172f4cd3ef49
